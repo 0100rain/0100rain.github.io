@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://0100rain.github.io/portfolio",
+  "homepage": "http://0100rain.github.io",
   "scripts": {
     "predeploy":"npm run dev" ,
     "deploy": "gh-pages -d .next",
