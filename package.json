@@ -6,7 +6,7 @@
   "homepage": "http://0100rain.github.io/portfolio",
   "scripts": {
     "predeploy":"npm run dev" ,
-    "deploy": "gh-pages -d next",
+    "deploy": "gh-pages -d .next",
     "dev": "next"
   },
   "keywords": [],
